@@ -49,7 +49,7 @@ Hi, I am Sreni !
 
  
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Views&color=blue&style=plastic" alt="joeyouss" />
+<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Views&color=blue&style=plastic" alt="Sre-n" />
  </p>
 
 ## Connect with me for :
