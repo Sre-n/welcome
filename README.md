@@ -36,12 +36,11 @@ Hi, I am Sreni !
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-<img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 <img alt="Linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img alt='MySQL' src="https://img.shields.io/badge/SQL-MySQL?style=for-the-badge&logo=mysql&color=F29111"/>
 <img alt='ReactJS' src="https://img.shields.io/badge/ReactJS-ReactJS?style=for-the-badge&logo=react&color=303030"/>
 <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-OpenCV?style=for-the-badge&logo=opencv&logoColor=fff&color=5C3EE8"/> 
-   <img alt="Unity" src="https://img.shields.io/badge/Unity-Unity?style=for-the-badge&logo=unity&logoColor=fff&color=5C3EB8"/> 
+
  
  </a>
 </p>
